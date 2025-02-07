@@ -28,4 +28,6 @@ Networking: Retrofit
 
 
 API: Coinpaprika API
+## Screenshots
+![Screenshot (936)](https://github.com/user-attachments/assets/e7599b8a-b6f2-455d-bf04-c3092bf89e28)
 
